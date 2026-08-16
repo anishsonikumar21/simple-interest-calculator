@@ -1,47 +1,23 @@
 # Simple Interest Calculator
 
-## About
+## Project Name
 
-This project is a simple Python-based calculator that calculates Simple Interest using the principal amount, rate of interest, and time.
+Simple Interest Calculator
+
+## Description
+
+A simple interest calculator project created as part of the Getting Started with Git and GitHub course.
 
 ## Formula
 
-**Simple Interest = (Principal × Rate × Time) / 100**
+Simple Interest = (Principal × Rate × Time) / 100
 
-## Technologies Used
+## Inputs
 
-* Python
-* Basic Programming Concepts
-* User Input
-* Mathematical Calculations
+- Principal Amount
+- Rate of Interest
+- Time Period
 
-## How It Works
+## Output
 
-The program takes three inputs from the user:
-
-1. Principal amount
-2. Rate of interest
-3. Time period
-
-It then applies the Simple Interest formula and displays the calculated result.
-
-## Example
-
-**Input:**
-
-* Principal = 10,000
-* Rate = 5%
-* Time = 2 years
-
-**Output:**
-
-* Simple Interest = 1,000
-
-## Purpose
-
-This project demonstrates basic Python programming, user input handling, and mathematical calculations.
-
-## Author
-
-Anish Sonikumar21
-B.Tech CSE (AI/ML) Student
+The calculator computes simple interest based on the given inputs.
